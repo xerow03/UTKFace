@@ -12,7 +12,7 @@ Dự án này xây dựng một chương trình sử dụng CNN (Convolutional N
 ## Bố cục
 - `data/Dataset`: Thư mục chứa dữ liệu huấn luyện.
 - `model.ipynb`: Tệp Notebook để xử lý dữ liệu và huấn luyện mô hình CNN.
-- `app.py`: File chính để chạy chương trình nhận diện giới tính và tuổi.
+- `app.py`: Tệp chạy chương trình nhận diện giới tính và tuổi.
 - `model.keras`: Tệp mô hình đã huấn luyện.
 
 ## Cách chạy chương trình
