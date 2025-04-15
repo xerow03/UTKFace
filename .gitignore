@@ -1,0 +1,5 @@
+# Cấu hình VSCode
+.vscode/
+
+# Môi trường ảo
+.venv/
